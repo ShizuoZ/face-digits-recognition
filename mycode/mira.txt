@@ -1,0 +1,14 @@
+Doing classification
+--------------------
+data:		digits
+classifier:		mira
+using enhanced features?:	True
+training set size:	5000
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 2633.39927006
+Validating...
+431 correct out of 500 (86.2%).
+Testing...
+411 correct out of 500 (82.2%).

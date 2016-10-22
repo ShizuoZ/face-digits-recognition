@@ -1,0 +1,150 @@
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	45
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 77.3929319382
+Validating...
+36 correct out of 50 (72.0%).
+Testing...
+36 correct out of 50 (72.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	90
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 141.904210091
+Validating...
+43 correct out of 50 (86.0%).
+Testing...
+46 correct out of 50 (92.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	135
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 50.5171160698
+Validating...
+46 correct out of 50 (92.0%).
+Testing...
+45 correct out of 50 (90.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	180
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 54.0344378948
+Validating...
+46 correct out of 50 (92.0%).
+Testing...
+49 correct out of 50 (98.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	225
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 58.7710530758
+Validating...
+36 correct out of 50 (72.0%).
+Testing...
+43 correct out of 50 (86.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	270
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 68.8465390205
+Validating...
+36 correct out of 50 (72.0%).
+Testing...
+43 correct out of 50 (86.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	315
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 71.3313319683
+Validating...
+49 correct out of 50 (98.0%).
+Testing...
+49 correct out of 50 (98.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	360
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 75.1826400757
+Validating...
+48 correct out of 50 (96.0%).
+Testing...
+45 correct out of 50 (90.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	405
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 87.6506969929
+Validating...
+49 correct out of 50 (98.0%).
+Testing...
+45 correct out of 50 (90.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		mira
+using enhanced features?:	True
+training set size:	450
+using default C=0.001 for MIRA
+Extracting features...
+Training...
+Trainng time: 89.5401468277
+Validating...
+45 correct out of 50 (90.0%).
+Testing...
+46 correct out of 50 (92.0%).
+

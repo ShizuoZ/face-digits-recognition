@@ -1,0 +1,321 @@
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	500
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (74.0%)
+Trainng time: 30.7414889336
+Validating...
+370 correct out of 500 (74.0%).
+Testing...
+339 correct out of 500 (67.8%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	1000
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (79.0%)
+Trainng time: 16.725728035
+Validating...
+395 correct out of 500 (79.0%).
+Testing...
+358 correct out of 500 (71.6%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	1500
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (80.0%)
+Trainng time: 17.8057589531
+Validating...
+400 correct out of 500 (80.0%).
+Testing...
+353 correct out of 500 (70.6%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	2000
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (80.0%)
+Trainng time: 19.2164559364
+Validating...
+400 correct out of 500 (80.0%).
+Testing...
+357 correct out of 500 (71.4%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	2500
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (80.2%)
+Trainng time: 20.2659468651
+Validating...
+401 correct out of 500 (80.2%).
+Testing...
+360 correct out of 500 (72.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	3000
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (80.8%)
+Trainng time: 20.7378940582
+Validating...
+404 correct out of 500 (80.8%).
+Testing...
+363 correct out of 500 (72.6%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	3500
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (81.2%)
+Trainng time: 22.5861890316
+Validating...
+406 correct out of 500 (81.2%).
+Testing...
+365 correct out of 500 (73.0%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	4000
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (81.4%)
+Trainng time: 23.1709561348
+Validating...
+407 correct out of 500 (81.4%).
+Testing...
+368 correct out of 500 (73.6%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	4500
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (81.4%)
+Trainng time: 24.2874979973
+Validating...
+407 correct out of 500 (81.4%).
+Testing...
+368 correct out of 500 (73.6%).
+
+Doing classification
+--------------------
+data:		digits
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	5000
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (82.2%)
+Trainng time: 25.100315094
+Validating...
+411 correct out of 500 (82.2%).
+Testing...
+371 correct out of 500 (74.2%).
+
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	45
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (58.0%)
+Trainng time: 3.53865408897
+Validating...
+29 correct out of 50 (58.0%).
+Testing...
+25 correct out of 50 (50.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	90
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (88.0%)
+Trainng time: 5.0307598114
+Validating...
+44 correct out of 50 (88.0%).
+Testing...
+44 correct out of 50 (88.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	135
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (92.0%)
+Trainng time: 6.60794615746
+Validating...
+46 correct out of 50 (92.0%).
+Testing...
+46 correct out of 50 (92.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	180
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (92.0%)
+Trainng time: 8.40540885925
+Validating...
+46 correct out of 50 (92.0%).
+Testing...
+45 correct out of 50 (90.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	225
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (94.0%)
+Trainng time: 10.3453378677
+Validating...
+47 correct out of 50 (94.0%).
+Testing...
+47 correct out of 50 (94.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	270
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (94.0%)
+Trainng time: 12.5802340508
+Validating...
+47 correct out of 50 (94.0%).
+Testing...
+47 correct out of 50 (94.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	315
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (94.0%)
+Trainng time: 14.9222049713
+Validating...
+47 correct out of 50 (94.0%).
+Testing...
+48 correct out of 50 (96.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	360
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (94.0%)
+Trainng time: 17.5598731041
+Validating...
+47 correct out of 50 (94.0%).
+Testing...
+48 correct out of 50 (96.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	405
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (94.0%)
+Trainng time: 20.210447073
+Validating...
+47 correct out of 50 (94.0%).
+Testing...
+48 correct out of 50 (96.0%).
+
+Doing classification
+--------------------
+data:		faces
+classifier:		naiveBayes
+using enhanced features?:	True
+training set size:	450
+using smoothing parameter k=0.001000 for naivebayes
+Extracting features...
+Training...
+Performance on validation set for k=0.001000: (94.0%)
+Trainng time: 23.092676878
+Validating...
+47 correct out of 50 (94.0%).
+Testing...
+47 correct out of 50 (94.0%).
+
